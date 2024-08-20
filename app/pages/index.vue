@@ -29,7 +29,7 @@ useSeoMeta({
 </script>
 
 <template>
-  <UContainer class="p-4 sm:p-6 lg:p-8 max-w-2xl">
+  <UContainer class="p-4 sm:p-6 lg:p-8 max-w-2xl transition-colors-300">
     <div class="flex flex-col items-center gap-2">
       <UAvatar
         :src="user.avatar"
