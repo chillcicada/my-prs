@@ -1,7 +1,7 @@
 {
   "type": "module",
   "private": true,
-  "packageManager": "pnpm@9.15.2+sha512.93e57b0126f0df74ce6bff29680394c0ba54ec47246b9cf321f0121d8d9bb03f750a705f24edc3c1180853afd7c2c3b94196d0a3d53d3e069d9e2793ef11f321",
+  "packageManager": "pnpm@9.15.4+sha512.b2dc20e2fc72b3e18848459b37359a32064663e5627a51e4c74b2c29dd8e8e0491483c3abb40789cfd578bf362fb6ba8261b05f0387d76792ed6e23ea3b1b6a0",
   "scripts": {
     "build": "nuxi build",
     "dev": "nuxi dev",
@@ -14,20 +14,20 @@
   },
   "dependencies": {
     "@iconify-json/ph": "^1.2.2",
-    "@nuxt/ui": "^2.20.0",
-    "@nuxthub/core": "^0.8.10",
-    "@vueuse/core": "^12.2.0",
-    "@vueuse/nuxt": "^12.2.0",
+    "@nuxt/ui": "^2.21.0",
+    "@nuxthub/core": "^0.8.13",
+    "@vueuse/core": "^12.4.0",
+    "@vueuse/nuxt": "^12.4.0",
     "feed": "^4.2.2",
-    "nuxt": "^3.15.0",
-    "octokit": "^4.0.3",
+    "nuxt": "^3.15.2",
+    "octokit": "^4.1.0",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
   },
   "devDependencies": {
-    "@nuxt/eslint": "^0.7.4",
-    "eslint": "^9.17.0",
+    "@nuxt/eslint": "^0.7.5",
+    "eslint": "^9.18.0",
     "vue-tsc": "^2.2.0",
-    "wrangler": "^3.99.0"
+    "wrangler": "^3.103.2"
   }
 }
