@@ -1,7 +1,7 @@
 {
   "type": "module",
   "private": true,
-  "packageManager": "pnpm@10.4.1+sha512.c753b6c3ad7afa13af388fa6d808035a008e30ea9993f58c6663e2bc5ff21679aa834db094987129aa4d488b86df57f7b634981b2f827cdcacc698cc0cfb88af",
+  "packageManager": "pnpm@10.5.1+sha512.c424c076bd25c1a5b188c37bb1ca56cc1e136fbf530d98bcb3289982a08fd25527b8c9c4ec113be5e3393c39af04521dd647bcf1d0801eaf8ac6a7b14da313af",
   "scripts": {
     "build": "nuxi build",
     "dev": "nuxi dev",
@@ -28,6 +28,6 @@
     "@nuxt/eslint": "^1.1.0",
     "eslint": "^9.21.0",
     "vue-tsc": "^2.2.4",
-    "wrangler": "^3.109.2"
+    "wrangler": "^3.110.0"
   }
 }
